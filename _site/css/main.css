@@ -134,12 +134,12 @@ h2  p {
 .social-link:active {
   background-color: #ed6e2f;
 }
-.social-list {
+.social-links {
   list-style: none;
   padding: 0;
   text-align: center;
 }
-.social-list > li {
+.social-links > li {
   display: inline-block;
   margin: 0 0.5em;
 }
