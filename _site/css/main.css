@@ -28,7 +28,7 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 100;
 }
 html {
-  box-shadow: 0 0 0 30px #000 inset;
+  box-shadow: 0 0 0 30px #050627 inset;
   padding: 0 30px;
 }
 a {
@@ -48,14 +48,14 @@ h2 ~ p {
 
 /* HEADER STYLES */
 .header {
-  background-color: #000;
+  background-color: #050627;
   color: #fff;
   position: fixed;
   width: 100%;
   z-index: 20;
 }
 .header-logo {
-  background-color: #000;
+  background-color: #050627;
   box-sizing: border-box;
   display: block;
   height: 10vh;
@@ -199,7 +199,7 @@ h2 ~ p {
 
 /* FOOTER STYLES */
 .footer {
-  background-color: #000;
+  background-color: #050627;
   padding: 10vh 0 15vh;
   text-align: center;
 }
@@ -351,7 +351,7 @@ h2 ~ p {
 }
 .home-callout {
   align-items: center;
-  background-color: #000;
+  background-color: #050627;
   color: #fff;
   display: flex;
   padding: 7vh 0;
