@@ -58,19 +58,19 @@ h2 ~ p {
   background-color: #050627;
   box-sizing: border-box;
   display: block;
-  height: 10vh;
-  left: -30px;
+  height: 12vh;
+  left: -18px;
   padding-top: 10px;
   position: relative;
   text-align: center;
-  width: 10vh;
+  width: 35vh;
 }
 .header-logo:hover,
 .header-logo:active {
   background-color: #ed6e2f;
 }
 .header-logo img {
-  width: 4.3vh;
+  width: 30vh;
 }
 .header-nav {
   float: right;
@@ -277,7 +277,7 @@ h2 ~ p {
   width: 0;
 }
 .hero-home {
-  background-image: url(/images/shark.jpg);
+  background-image: url(/images/mubarak-ismail-TtrFuf24Q6I-unsplash.jpg);
   background-position: center;
 }
 .hero-content {
