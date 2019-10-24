@@ -302,7 +302,8 @@ h2 ~ p {
   color: #fff;
 }
 .half-hero {
-  background-position: center center;
+  background-position-y: 25%;
+  /*background-position: center center;*/
   background-size: cover;
   height: 40vh;
 }
@@ -398,6 +399,8 @@ h2 ~ p {
   margin: 6rem 0 0;
   padding: 0 3%;
   width: 33%;
+  /*-webkit-filter: grayscale(100%);  Safari 6.0 - 9.0
+  filter: grayscale(100%);*/
 }
 .bio-box h3 {
   color: #fff;
@@ -517,7 +520,8 @@ h2 ~ p {
   vertical-align: middle;
 }
 .posts-image {
-  background-position: center;
+  background-position-y: 25%;
+  /*background-position: center;*/
   background-size: cover;
   height: 6em;
   margin-bottom: 1.5em;

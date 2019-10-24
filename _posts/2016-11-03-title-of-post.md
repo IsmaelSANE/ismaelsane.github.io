@@ -1,10 +1,10 @@
 ---
 layout: post
-title: This is the title of the post
+title: Gattaca
 postHero: /images/shark.jpg
-author: Me, Myself, and I
-authorTwitter: http://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+author: Ismael SANE
+authorTwitter: https://twitter.com/sixisso
+gravatar: https://gravatar.com/avatar/5b875db62639475336220683bf108836?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
