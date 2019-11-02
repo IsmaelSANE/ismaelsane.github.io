@@ -9,6 +9,7 @@ postFooter: Information suplémentaire <a href="http://thomasgil.com/hacker.html
 ---
 
 Etre Hacker est liées généralement à la connaissance de l'outil informatique et à la satisfaction de résoudre des problèmes techniques, ce qui es tout à fait vraie, mais c'est aussi un état d'esprit qui ne se limite pas au monde du logiciel. <br> Cette état d'esprit est partagé par toute une communauté internationale qui communique principalement en Anglais. <br> C'est la raison principale pour laquelle je me lance dans l'écriture de ce blog.  <br>Je vœux aider les francophones qui lisent mon blog à franchir le cap. Trop peu de français on un niveau d'anglais suffisant pour faire parti de cette communauté alors que les meilleures ressources du web sont en Anglais et que les traductions de livres techniques sont soit inexistant ou lorsqu'elles existent, dilue le message de l'auteur.  <br> J'ai hacker mon niveau d'anglais ce qui m'a permis de travailler six mois dans un environnement internationale et j'ai aussi lu une dizaine de livres en version originale.
+
 <img class="pull-left" src="http://placekitten.com/g/400/200"
      alt="kitten">
 
@@ -30,5 +31,4 @@ Les hackers sont naturellement anti-autoritaristes. Une personne qui vous donne 
 
 <h6>5. L'attitude ne remplace pas la compétence.</h6>
 Pour être un hacker, vous développerez certaines facettes de cette attitude. Mais copier une attitude ne fera pas plus de vous un hacker qu'un athlète ou une star du rock. Devenir un hacker vous demandera de l'intelligence, de la pratique et de l'ardeur au travail.
-
 
