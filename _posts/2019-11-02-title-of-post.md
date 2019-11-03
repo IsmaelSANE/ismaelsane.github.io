@@ -15,20 +15,20 @@ Etre Hacker est lié généralement à la connaissance de l'outil informatique e
 
 Comme tout bon développeur te le dira, aucun problème ne devrait être résolu deux fois, donc je ne vais pas prétendre te donner une définition qui sort de mon cerveau mais je vais te résumer les grands principes de l'attitude du hacker selon la définition de <a href="http://catb.org/~esr/" target="_blank">Eric Steven Raymond</a> et tu trouveras un lien vers la traduction complète en bas de ce post.
 <h6>1. Le monde regorge de problèmes fascinants à résoudre.</h6>
- Les athlètes tirent leur motivation d'une sorte de joie physique qu'ils éprouvent en poussant leur corps à accomplir des prouesses et en se dépassant au-delà de leurs limites physiques. De même, pour être un hacker, vous devez tirer une excitation essentielle du fait de résoudre des problèmes, d'aiguiser vos compétences et d'exercer votre intelligence. <br>
+ Les athlètes tirent leur motivation d'une sorte de joie physique qu'ils éprouvent en poussant leur corps à accomplir des prouesses et en se dépassant au-delà de leurs limites physiques. Un hacker, est excité à l'idée de résoudre des problèmes, d'aiguiser ces compétences. <br>
 
 
 <h6>2. Aucun problème ne devrait être résolu deux fois.</h6>
-Pour vous comporter comme un hacker, vous devez considérer que le temps de réflexion des autres hackers est précieux. Si précieux que vous devriez vous faire un devoir quasi-moral de partager l'information, de résoudre les problèmes et d'en révéler les solutions de telle sorte que d'autres hackers puissent résoudre de nouveaux problèmes au lieu d'avoir à régler les anciens encore et encore. <br>
+Un hacker, considére que le temps de réflexion des autres hackers est précieux. Si précieux qu'il se fait un devoir quasi-moral de partager l'information, de résoudre les problèmes et d'en révéler les solutions de telle sorte que d'autres hackers puissent résoudre de nouveaux problèmes au lieu d'avoir à régler les anciens encore et encore. <br>
 
 <h6>3. Le diable est dans l'ennui et la corvée.</h6>
-Vous comporter comme un hacker implique que cette conviction doit être assez grande pour vous pousser à automatiser au maximum tous les aspects rébarbatifs, pour vous-même comme pour les autres (en particulier pour les autres hackers). <br>
+Se comporter comme un hacker implique que cette conviction doit être assez grande pour te pousser à automatiser au maximum tous les aspects rébarbatifs, pour toi comme pour les autres (en particulier pour les autres hackers). <br>
 
 <h6>4. Vive la liberté.</h6>
-Les hackers sont naturellement anti-autoritaristes. Une personne qui vous donne des ordres peut vous empêcher de résoudre un problème qui vous fascine; et vu le fonctionnement d'un esprit autoritaire, cette personne trouvera généralement une raison complètement stupide d'agir ainsi. Il faut donc combattre l'attitude autoritaire systématiquement pour éviter toute répression envers vous ou d'autres hackers.
+Les hackers sont naturellement anti-autoritaristes. Une personne qui te donne des ordres peut t'empêcher de résoudre un problème qui te fascine; et vu le fonctionnement d'un esprit autoritaire, cette personne trouvera toujours une bonne excuse pour legitimer ses actions. Il faut donc combattre l'attitude autoritaire systématiquement pour éviter toute répression envers toi ou d'autres hackers.
 
 (Cela ne veut pas dire qu'il faille combattre toute autorité. Les enfants ont besoin d'être guidés et les criminels contraints. Il se peut qu'un hacker accepte une certaine forme d'autorité pour atteindre un objectif qu'il juge plus important que le temps qu'il perd à suivre les ordres. Mais il s'agit là d'un compromis limité et conscient, bien loin de la reddition personnelle souhaitée par les autoritaristes.) <br>
 
 <h6>5. L'attitude ne remplace pas la compétence.</h6>
-Pour être un hacker, vous développerez certaines facettes de cette attitude. Mais copier une attitude ne fera pas plus de vous un hacker qu'un athlète ou une star du rock. Devenir un hacker vous demandera de l'intelligence, de la pratique et de l'ardeur au travail.
+Pour être un hacker, il faut développer certaines facettes de cette attitude. Mais copier une attitude ne fera pas plus de toi un hacker qu'un athlète ou une star du rock. Devenir un hacker te demandera beaucoup de pratique et surtout beaucoup d'ardeur au travail.
 
