@@ -747,3 +747,45 @@ textarea {
   font-weight:700;
 }
 [type="submit"]:hover { background:#CC4949; }
+
+/* Contact Page Rulesets */
+
+#connection {
+  width: 100%;
+  text-align: center;
+  color: white;
+  background-color: #CC4949;
+}
+
+#top {
+  margin: 15% auto;
+}
+
+#top h2 {
+  margin: 3%
+  font-size: 30px;
+  font-weight: normal;
+}
+
+#top p {
+  margin: 3%
+  font-size: 18px;
+  font-weight: lighter;
+}
+
+.contact {
+  width: 100%;
+  margin: 10% auto;
+}
+
+.contact p, .contact ul {
+  margin: 1%;
+  font-size: 16px;
+  font-weight: lighter;
+}
+
+#location {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
